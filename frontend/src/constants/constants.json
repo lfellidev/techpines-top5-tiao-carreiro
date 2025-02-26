@@ -1,0 +1,15 @@
+{
+
+	"userIsAdminAPI": "http://localhost:8000/api/user/isUserAdmin",
+	"userSignupAPI": "http://localhost:8000/api/user/signup",
+	"userLoginAPI": "http://localhost:8000/api/user/login",
+	"userLogoutAPI": "http://localhost:8000/api/user/logout",
+	"postSuggestAPI": "http://localhost:8000/api/post/suggest",
+
+	"postGetAPI": "http://localhost:8000/api/post/get",
+	"adminPostGetAPI": "http://localhost:8000/api/admin/post/get",
+	"adminPostDeleteAPI": "http://localhost:8000/api/admin/post/delete",
+	"adminPostSuggestAPI": "http://localhost:8000/api/admin/post/suggest",
+	"adminPostUpdateVisibilityAPI": "http://localhost:8000/api/admin/post/update/visibility",
+	"adminPostUpdateUrlAPI": "http://localhost:8000/api/admin/post/update/url"
+}
